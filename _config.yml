@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 
   facebook:
-  github: pianfan
+  github: 
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://pianfan.github.io
+url: https://XC-ckr.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
